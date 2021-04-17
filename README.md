@@ -1,3 +1,3 @@
 # Covid-19 Análise
 
-Dataset retirado de: https://github.com/wcota/covid19br
+The dataset is up-to-date as of april 16th. Source: https://github.com/wcota/covid19br
